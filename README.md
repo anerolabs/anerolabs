@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to the lab! 👋
+
+Stage manager turned software engineer here. 
+
+Currently working on... learning Typescript!
+
+Tech interests include APIs, scalable systems, and tech in entertainment. 
+
+Checkout a few of my favorite projects below. 
+
 
 <!--
 **anerolabs/anerolabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
