@@ -2,7 +2,7 @@
 
 Stage manager turned software engineer here. 
 
-Currently working on... learning Typescript!
+Currently working on... learning Typescript and building an app for theatrical stage managers!
 
 Tech interests include APIs, scalable systems, and tech in entertainment. 
 
