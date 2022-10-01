@@ -2,9 +2,9 @@
 
 Stage manager turned software engineer here. 
 
-Currently working on... learning Typescript and building an app for theatrical stage managers!
+Currently working on... a Google Forms invoicing app!
 
-Tech interests include APIs, scalable systems, and tech in entertainment. 
+Tech interests include frontend architecture, APIs, and tech in entertainment. 
 
 Checkout a few of my favorite projects below. 
 
