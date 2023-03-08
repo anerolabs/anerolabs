@@ -2,9 +2,9 @@
 
 Stage manager turned software engineer here. 
 
-Currently working on... a Google Forms invoicing app!
+Currently working on... an app to track 5/3/1 workouts!
 
-Tech interests include frontend architecture, APIs, and tech in entertainment. 
+Tech interests include frontend architecture, and tech in entertainment. 
 
 Checkout a few of my favorite projects below. 
 
