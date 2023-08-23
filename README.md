@@ -2,7 +2,7 @@
 
 Stage manager turned software engineer here. 
 
-Currently working on... an app to track 5/3/1 workouts!
+Currently working on... an ecommerce site for Puerto Rican watercolor art.
 
 Tech interests include frontend architecture, and tech in entertainment. 
 
