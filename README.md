@@ -2,7 +2,7 @@
 
 Stage manager turned software engineer here. 
 
-Currently working on... an ecommerce site for Puerto Rican watercolor art.
+Currently working on... an ecommerce site for (my grandmother's) watercolor art!
 
 Tech interests include frontend architecture, and tech in entertainment. 
 
