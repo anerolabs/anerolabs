@@ -2,11 +2,9 @@
 
 Stage manager turned software engineer here. 
 
-Currently working on... an ecommerce site for (my grandmother's) watercolor art!
+Currently working on... a theatrical production database web application.
 
-Tech interests include frontend architecture, and tech in entertainment. 
-
-Checkout a few of my favorite projects below. 
+Tech interests include frontend web dev architecture, and tech in entertainment. 
 
 
 <!--
